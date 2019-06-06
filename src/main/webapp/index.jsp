@@ -12,7 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Welcome to devops team Subramanyam, Srirang and Ram on behalf of Infinito Solutions</h2>
-      <h2 class="text-center">This is to test the Github hook trigger</h2>
+      <h2 class="text-center">This is to test the Github hook trigger second time</h2>
       
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
  </center> </div>
