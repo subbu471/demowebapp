@@ -10,7 +10,7 @@
      <h1 class="text-center">Welcome to</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center">My job is done with jenkins</h1>
+      
       <h2 class="text-center">Welcome to devops team Subramanyam, Srirang and Ram on behalf of Infinito Solutions</h2>
       <h2 class="text-center">This is to test the Github hook trigger for second time</h2>
         <h2 class="text-center">This is to check both poll trigger and Github hook trigger</h2>
